@@ -12,7 +12,7 @@ def shell_sort(arr):
             arr[j] = temp
         gap //= 2
 
-# Example usage
+#Example usage
 arr = [64, 34, 25, 12, 22, 11, 90]
 shell_sort(arr)
 print("Sorted array:", arr)
