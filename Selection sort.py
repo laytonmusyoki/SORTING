@@ -12,7 +12,7 @@ def selection_sort(arr):
     
     return arr
 
-# Example usage
+#Example usage
 arr = [64, 25, 12, 22, 11]
 sorted_arr = selection_sort(arr)
 print("Sorted array:", sorted_arr)
