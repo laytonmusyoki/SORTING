@@ -28,7 +28,7 @@ def radix_sort(arr):
         counting_sort(arr, exp)
         exp *= 10
 
-# Example usage:
+#Example usage:
 arr = [170, 45, 75, 90, 802, 24, 2, 66]
 radix_sort(arr)
 print("Sorted array:", arr)
