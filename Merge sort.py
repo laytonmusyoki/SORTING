@@ -33,6 +33,7 @@ def merge(left, right):
     
     return result
 
+
 #Exampleusage
 arr = [5, 2, 8, 12, 3]
 sorted_arr = merge_sort(arr)
